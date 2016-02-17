@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
+  "LastProcessedCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
   "LastTranslatedCommit": "58929ad918180413f617d3bbf8779a7f4a4fd29f",
   "Items": {
     "a056561c587322cb30eceefdb1352f3e572ad8be": {
@@ -33,8 +33,11 @@
       "FileHash": "f333254dcf8caec6a8f47f282b8f9e82fed06ddc",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-enable-phase-2.png",
-      "HandoffReason": 0,
-      "DependencyFrom": null,
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+      ],
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-enable-phase-2.png"
       ],
@@ -60,8 +63,11 @@
       "FileHash": "64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-initiate-phase-1.png",
-      "HandoffReason": 0,
-      "DependencyFrom": null,
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+      ],
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-initiate-phase-1.png"
       ],
@@ -141,8 +147,11 @@
       "FileHash": "d1e213fe38089e6c98e3b9ee3982becd98dd9eb5",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-remediate-phase-1.png",
-      "HandoffReason": 0,
-      "DependencyFrom": null,
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+      ],
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-remediate-phase-1.png"
       ],
@@ -411,8 +420,10 @@
       "FileHash": "2e96017cee5dfb3a87d86e56fde978d6260c7ff5",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-remediate-phase-1.png",
-      "HandoffReason": 0,
-      "DependencyFrom": null,
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-remediate-phase-1.png"
       ],
@@ -438,7 +449,7 @@
       "FileHash": "19bd7ae3cecebf92b7016e39af90bb35e665fb16",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Azure-Active-Directory-Premium.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Azure-Active-Directory-Premium.md"
@@ -465,7 +476,7 @@
       "FileHash": "ae61607efd564aa4f21b54f7857f4fde67f53817",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Azure-Rights-Management.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Azure-Rights-Management.md"
@@ -492,7 +503,7 @@
       "FileHash": "9171c6d1a06c4fe6955fa3dc4a9936f5c1b06ba0",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Enterprise-Mobility-Suite.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Enterprise-Mobility-Suite.md"
@@ -519,7 +530,7 @@
       "FileHash": "054f49b4184a9bdfa2df7ad72dd303c9d831a16c",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Intune.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-for-Intune.md"
@@ -546,7 +557,7 @@
       "FileHash": "e0dd127af6c0ffd40b308536f9f7c23d59608c29",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md"
@@ -573,7 +584,7 @@
       "FileHash": "ceda191d37835854a628ec69e1facd3b23984d36",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
@@ -600,7 +611,7 @@
       "FileHash": "95ae72bf5c68145f3f2835d14560e87ab8bc0562",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
@@ -627,7 +638,7 @@
       "FileHash": "e2f3967fdeaf21aa6d6b7b99c24fc28744ce3d14",
       "SourceFileCommit": "840de6e4e7ba73a0ec1886ddf9ae0e0741cd3a16",
       "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\TOC.md",
-      "HandoffReason": 0,
+      "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "CapsToOps0129_EMS\\v1\\Topic\\TOC.md"
@@ -639,6 +650,241 @@
       "HandoffFailureTimes": 0,
       "TargetFileCommit": "c889cf811ee5aaebb5cb578e5366afad7885b9a3",
       "TargetFilePath": "CapsToOps0129_EMS\\v1\\Topic\\TOC.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a": {
+      "FileHash": "e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Topic\\Enterprise-Mobility-FastTrack-Program.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Topic\\Enterprise-Mobility-FastTrack-Program.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\Enterprise-Mobility-FastTrack-Program.89e14b138d589155b3c31d3719c83b05a298da8f.de-de.xlf",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "d7641e47928129e58192ac12d9e36cd56c57be4d": {
+      "FileHash": "d7641e47928129e58192ac12d9e36cd56c57be4d",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\1-rms-onboarding-process.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\1-rms-onboarding-process.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\d7641e47928129e58192ac12d9e36cd56c57be4d.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "01dceb32e182d5a32c095ee441855d58848f2ef2": {
+      "FileHash": "01dceb32e182d5a32c095ee441855d58848f2ef2",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Intune-onboarding-phases-9-15-15.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\Intune-onboarding-phases-9-15-15.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\01dceb32e182d5a32c095ee441855d58848f2ef2.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "37eebe7c7d8e52eb31e73bd024985eac7486d0a3": {
+      "FileHash": "37eebe7c7d8e52eb31e73bd024985eac7486d0a3",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-assess-phase-v6.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-assess-phase-v6.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "f0021622ea4a945d276e049e1f53980ef5bbcb47": {
+      "FileHash": "f0021622ea4a945d276e049e1f53980ef5bbcb47",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Intune-initiate-phase-9-15-15-v2.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\Intune-initiate-phase-9-15-15-v2.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\f0021622ea4a945d276e049e1f53980ef5bbcb47.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "989a623c0d4d648a6411d300d24e7b166b79dcc5": {
+      "FileHash": "989a623c0d4d648a6411d300d24e7b166b79dcc5",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Intune-assess-phase-9-15-15.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\Intune-assess-phase-9-15-15.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\989a623c0d4d648a6411d300d24e7b166b79dcc5.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "468d344e2a354c889a0b77b3f0a7796d27208641": {
+      "FileHash": "468d344e2a354c889a0b77b3f0a7796d27208641",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Intune-enable-phase-core-9-15-15.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\Intune-enable-phase-core-9-15-15.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\468d344e2a354c889a0b77b3f0a7796d27208641.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": {
+      "FileHash": "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3",
+      "SourceFileCommit": "7099567b8ae21cfe024b99fde52d839574030d31",
+      "SourceFilePath": "CapsToOps0129_EMS\\v1\\Image\\Enable-phase-Intune-11-20-15.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "CapsToOps0129_EMS\\v1\\Topic\\FastTrack-Center-Benefit-Process-for-Intune.md"
+      ],
+      "FilePathList": [
+        "CapsToOps0129_EMS\\v1\\Image\\Enable-phase-Intune-11-20-15.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\kimizhu\\CapsToOps0129_EMS.de-de\\master\\f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png",
+      "HandoffFileCommit": "881c2b35894f15fc8ead4e39e332b6d87ed1ae11",
+      "HandoffDateTime": "2016-02-17T02:58:38.2396042Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
